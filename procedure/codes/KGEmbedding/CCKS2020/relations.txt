@@ -1,0 +1,9 @@
+produce	0
+interaction	1
+binding	2
+effect	3
+protein_type	4
+drug_type	5
+drug_category	6
+host	7
+lineage	8
